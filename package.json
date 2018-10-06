@@ -1,0 +1,9 @@
+{
+  "name": "agamemnon-little",
+  "version": "1.0.0",
+  "description": "A simple game",
+  "main": "main.js",
+  "repository": "https://github.com/jola5/agamemnon-little.git",
+  "author": "Johannes Layher",
+  "license": "MIT"
+}
